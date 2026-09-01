@@ -1,0 +1,46 @@
+Nama : Muhammad Daud Akyaz
+Assignment : ILT SS 1
+
+Sort By Deadline
+1.Laporan kemajuan (7)
+2.Pemeliharaan Harian
+3.Reuni Virtual
+4.Migrasi Cloud
+5.Mengunjungi Dokter
+6.mencari hadiah
+7.belanja untuk ulang tahun ibu
+8.Menonton series
+
+Sort by Urgency
+1.Laporan kemajuan (7)
+2.Pemeliharaan Harian
+3.Mengunjungi Dokter
+4.Migrasi Cloud
+5.mencari hadiah
+6.belanja untuk ulang tahun ibu
+7.Reuni Virtual
+8.Menonton series
+
+Buat koridor vector 2*2 
+
+Penting, Mendesak action Lakukan sekarang
+1.Laporan kemajuan (7) : laporan harus selesai malam dan memiliki pengaruh penting dalam karir Sofia
+2.Pemeliharaan Harian (2) : Pemeliharan bisa menjadi krusial karena itu adalah perkejaan utama dia jadi tidak bisa ditunda terlalu lama
+
+Penting, Tidak Mendesak action Jadwalkan
+1.Mengunjungi Dokter (6) : Kesahatan itu penting, dan jika tidak ditangani segara dapat mengganggu aktivitas lain, namun bisa dijadwalkan di jam kosong Sofia
+2.Migrasi Cloud (1) : melakukan persiapan Migrasi masih memiliki tenggat 3 hari artinya jika pekerjaan nya tidak banyak bisa dilakukan setelah pekerjaan utama selesai dan pengecekan kesehatan sudah dilakukan
+
+Tidak Penting, Mendesak action Delegasikan
+1.Reuni Virtual (5) : Reuni tidak perlu dijalankan, tidak banyak value balik yang diterima, dan tidak ada konsekuensi langsung dari tidak menghadiri kegiatan ini
+2.mencari hadiah (3) : Tenggat masih 1 minggu dan mencari hadiah tidak memerlukan waktu banyak dan bisa dilakukan oleh orang lain
+3.belanja untuk ulang tahun ibu (4): Tenggat masih 1 minggu dan mencari hadiah tidak memerlukan waktu banyak dan bisa dilakukan oleh orang lain
+
+Tidak Penting, Tidak Mendesak action Tinggalkan
+1.Menonton series (8) : Ini penting banget, jika memang semua pekerjaan sudah selesai, yaa tapi kan masih ada hal lain yang harus dilakukan, dan menonton series bisa ditunda atau bisa dilakukan lain waktu, kecuali tayang exclusive.
+
+Note: perlu diingat ini adalah pembuatan kepentingan berdasarkan pendapat pribadi,
+jika terdapat premis tambahan seperti, sofia menyayangi ibu nya lebih dari siapapun
+dan ia merasa waktu dengan ibu nya tidak banyak, maka jadwal dan 3&4 bisa masuk dalam kuadran (1,2) atau bahkan (1,1)
+dan manusia tidak pernah dapat 100% rasional, karena reason dan premis tiap individu bisa berbeda, jadwal sangat terpengaruh pada emosi
+dan juga pada reason dan nilai balik yang bisa diterima.
